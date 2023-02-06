@@ -1,0 +1,8 @@
+{
+  "name": "djkshkjad",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/that-coder/djkshkjad",
+    "ssh": "git@github.com:that-coder/djkshkjad.git"
+  }
+}
